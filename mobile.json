@@ -1,0 +1,50 @@
+[
+    {
+        "model":"Redmi Note 10",
+        "brand":"Redmi",
+        "mrp":15999.00,
+        "price":12499.00,
+        "image":"https://m.media-amazon.com/images/I/810GQ7CWdDL._SL1500_.jpg",
+        "ram":"4GB",
+        "storage":"64GB",
+        "camera":"48MP",
+        "isAvailable":true
+
+    },
+    {
+        "model":"OnePlus Nord CE 5G",
+        "brand":"OnePlus",
+        "mrp":35000.00,
+        "price":25999.00,
+        "image":"https://m.media-amazon.com/images/I/61iy2Ru9KdS._SL1500_.jpg",
+        "ram":"12GB",
+        "storage":"256GB",
+        "camera":"32MP",
+        "isAvailable":true
+
+    },
+    {
+        "model":"OPPO A74 5G",
+        "brand":"OPPO",
+        "mrp":20000.00,
+        "price":17990.00,
+        "image":"https://m.media-amazon.com/images/I/71geVdy6-OS._SL1500_.jpg",
+        "ram":"6GB",
+        "storage":"128GB",
+        "camera":"48MP",
+        "isAvailable":false
+
+    },
+    {
+        "model":"Samsung Galaxy M31",
+        "brand":"Samsung",
+        "mrp":20000.00,
+        "price":14999.00,
+        "image":"https://m.media-amazon.com/images/I/71OxJeyywSL._SL1500_.jpg",
+        "ram":"6GB",
+        "storage":"128GB",
+        "camera":"48MP",
+        "isAvailable":true
+
+    }
+]
